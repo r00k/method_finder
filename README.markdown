@@ -1,3 +1,9 @@
+What's In This Fork?
+---
+
+I'm forking Michael's gem because I want to give it a more idiomatically Ruby style. Will this happen? We'll see!
+
+
 Description
 ---
 
